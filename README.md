@@ -1,6 +1,6 @@
 # tplink-powercycle
 
-This small script is used to remotely powercycle a TP Link Casa smart plug.
+This small script is used to remotely powercycle a TP Link Kasa smart plug.
 
     $ node powercycle.js
     Options:
